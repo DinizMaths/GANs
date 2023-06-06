@@ -7,4 +7,6 @@ GANs (Generative Adversarial Networks) were introduced in 2014 by Ian Goodfellow
 - Generator
 - Discriminator
 
+<img src="./images/base_gan_structure.png">
+
 These networks are placed in opposition to each other, resulting in the name "adversarial".
